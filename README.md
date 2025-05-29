@@ -34,7 +34,9 @@ Once released, you will be able to:
 
 ## Screenshots
 
-_(Coming soon – stay tuned for UI previews and feature walkthroughs.)_
+![Login](img/Login.PNG)
+![Home](img/Home.PNG)
+![Dashboard](img/Dashboard.PNG)
 
 ## Roadmap
 

@@ -42,10 +42,10 @@ Once released, you will be able to:
 
 - [x] Core WebGUI prototype
 - [x] Session manager with shell interaction
+- [x] Authentication & RBAC (Role-Based Access Control)
 - [ ] Payload customization wizard
-- [ ] Module framework with plugin support
 - [ ] Reporting and export engine
-- [ ] Authentication & RBAC (Role-Based Access Control)
+
 
 ## Contributing
 
